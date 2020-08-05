@@ -1,4 +1,4 @@
-<img width="auto" src="https://github.com/Laercio2/Laercio-Almeida/blob/master/banner.png">
+<img width="auto" src="https://github.com/Laercio2/Laercio2/blob/master/banner.png">
 
 
 # Laercio Almeida
