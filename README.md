@@ -5,7 +5,7 @@
 
 ## Olá pessoal 👋
 Sou apaixonado por resolver problemas utilizando a programação.
-Sou um FullStack Developer em evolução :computer:
+Sou um Developer em evolução :computer:
 
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos usando React
  <br/> :blush: &nbsp; Desenvolvo novos Bots para o Discord
