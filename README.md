@@ -1,7 +1,7 @@
 
 # Laercio Almeida
 <br/> [![Instagram Badge](https://img.shields.io/badge/-@laercioalm_-black?style=flat-square&logo=Instagram&logoColor=white&link=www.instagram.com/laercioalm_/)](https://www.instagram.com/laerciinho_) [![Twitter Badge](https://img.shields.io/badge/-@laercioalmeida_-black?style=flat-square&logo=Twitter&logoColor=white&link=www.twitter.com/LarcioAlmeida4)](https://www.twitter.com/LarcioAlmeida4) [![Linkedin Badge](https://img.shields.io/badge/-LaercioAlmeida-black?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/laercioalmeida)](https://www.linkedin.com/in/laercioalmeida) 
-[![Gmail Badge](https://img.shields.io/badge/-laercioalmeidamoral@gmail.com-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:laercioalmeidamoral@gmail.com)](mailto:laercioalmeidamoral@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-laercioalmeidamoral@gmail.com-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:laercioalm@icloud.com)](mailto:laercioalml@icloud.com)
 
 ## Olá pessoal 👋
 Sou apaixonado por resolver problemas utilizando a programação.
